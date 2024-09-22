@@ -1,0 +1,383 @@
+{
+    "apps": [
+      {
+        "name": "Angry Birds",
+        "bundleIdentifier": "com.rovio.angrybirds",
+        "marketplaceID": "10000001",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "The original slingshot adventure.",
+        "localizedDescription": "Join the Angry Birds in their quest to take down the pigs who stole their eggs!",
+        "iconURL": "https://upload.wikimedia.org/wikipedia/en/2/2d/Angry_Birds_promo_art.png",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "1.0.0",
+            "date": "2024-07-08",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds/Angry%20Birds%208.0.3%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Angry Birds Epic",
+        "bundleIdentifier": "com.rovio.angrybirdsepic",
+        "marketplaceID": "10000002",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "An epic role-playing adventure.",
+        "localizedDescription": "Enter a world of fantasy and adventure with the Angry Birds in this turn-based RPG.",
+        "iconURL": "https://static.wikia.nocookie.net/angrybirds/images/c/c8/ABEpic_Icon_1.png/revision/latest?cb=20211124000442",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "3.0.1",
+            "date": "2024-08-16",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Epic/Angry%20Birds%20Epic%203.0.1%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Angry Birds Go",
+        "bundleIdentifier": "com.rovio.angrybirdsgo",
+        "marketplaceID": "10000003",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "High-speed downhill racing.",
+        "localizedDescription": "Race downhill with the Angry Birds and other familiar faces in this high-octane kart racer.",
+        "iconURL": "https://m.media-amazon.com/images/I/91vDKz-KzEL.png",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "2.8.3",
+            "date": "2024-08-05",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Go/Angry%20Birds%20Go%202.8.3%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Angry Birds HD",
+        "bundleIdentifier": "com.rovio.angrybirdshd",
+        "marketplaceID": "10000004",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "The original Angry Birds in high definition.",
+        "localizedDescription": "Experience the classic Angry Birds game with enhanced graphics and higher resolution!",
+        "iconURL": "https://static.wikia.nocookie.net/angrybirds/images/4/4e/ABCHDAppIcon.png/revision/latest?cb=20230619113612",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "8.0.3",
+            "date": "2024-07-25",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20HD/Angry%20Birds%20HD%208.0.3%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Angry Birds Rio",
+        "bundleIdentifier": "com.rovio.angrybirdsrio",
+        "marketplaceID": "10000005",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "Angry Birds meets Rio.",
+        "localizedDescription": "Join the Angry Birds as they journey to Rio de Janeiro and free their friends!",
+        "iconURL": "https://upload.wikimedia.org/wikipedia/en/0/02/Angry_Birds_Rio.png",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "1.0.0",
+            "date": "2024-07-13",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Rio/Angry%20Birds%20Rio%202.6.9%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Angry Birds Rio HD",
+        "bundleIdentifier": "",
+        "marketplaceID": "10000005",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "Angry Birds meets Rio in HD.",
+        "localizedDescription": "Join the Angry Birds as they journey to Rio de Janeiro and free their friends!",
+        "iconURL": "https://archive.org/download/com.rovio.angrybirdsriohd-ios3.2-clutch-2.0.4/iTunesArtwork%2063.png",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "1.0.0",
+            "date": "2024-07-13",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Rio/Angry%20Birds%20Rio%202.6.9%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },      
+      {
+        "name": "Bad Piggies",
+        "bundleIdentifier": "com.rovio.badpiggies",
+        "marketplaceID": "10000010",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "A puzzle adventure with the pigs.",
+        "localizedDescription": "Join the pigs in their attempt to steal the Angry Birds' eggs by building their crazy contraptions!",
+        "iconURL": "https://upload.wikimedia.org/wikipedia/en/5/51/Bad_Piggies.png",
+        "tintColor": "#5CB85C",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "1.0.0",
+            "date": "2024-07-01",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Bad%20Piggies/Bad%20Piggies%202.3.9%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Angry Birds Seasons",
+        "bundleIdentifier": "com.rovio.angrybirdsseasons",
+        "marketplaceID": "10000006",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "Seasonal fun with Angry Birds.",
+        "localizedDescription": "Celebrate holidays and festivals around the world with special Angry Birds levels.",
+        "iconURL": "https://upload.wikimedia.org/wikipedia/en/f/fc/Angry_Birds_Seasons.png",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "1.0.0",
+            "date": "2024-07-01",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Seasons%20/Angry%20Birds%20Seasons%206.6.2%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Angry Birds Seasons HD",
+        "bundleIdentifier": "com.rovio.angrybirdsseasonshd",
+        "marketplaceID": "10000007",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "Seasonal fun in HD.",
+        "localizedDescription": "Play Angry Birds Seasons with enhanced graphics in high definition.",
+        "iconURL": "https://www.angrybirdsnest.com/wp-content/uploads/2014/01/AngryBirdsSeasonsHD_artworkUrl512.png",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "6.6.2",
+            "date": "2024-08-05",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Seasons%20HD/Angry%20Birds%20Seasons%20HD%206.6.2%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Angry Birds Space",
+        "bundleIdentifier": "com.rovio.angrybirdsspace",
+        "marketplaceID": "10000008",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "The Angry Birds go to space!",
+        "localizedDescription": "Join the Angry Birds in a new adventure that takes the battle to space!",
+        "iconURL": "https://upload.wikimedia.org/wikipedia/en/6/66/Angry_Birds_Space_icon.png",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "2.2.9",
+            "date": "2024-07-06",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Space/Angry%20Birds%20Space%202.2.9%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Angry Birds Space HD",
+        "bundleIdentifier": "com.rovio.angrybirdsspacehd",
+        "marketplaceID": "10000009",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "Angry Birds Space in HD.",
+        "localizedDescription": "Experience Angry Birds Space with high-definition graphics and extra detail.",
+        "iconURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Space%20HD/Angry%20Birds%20Space%20HD%202.2.9%2064Bit.ipa/Payload%2FAngryBirdsSpace.app%2FIcon_HD%402x.png",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "2.2.9",
+            "date": "2024-07-05",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Space%20HD/Angry%20Birds%20Space%20HD%202.2.9%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Angry Birds Star Wars",
+        "bundleIdentifier": "com.rovio.angrybirdsstarwars",
+        "marketplaceID": "10000011",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "Angry Birds meets Star Wars.",
+        "localizedDescription": "Join the Angry Birds in a galaxy far, far away and defeat the evil Imperial Pigs.",
+        "iconURL": "https://static.wikia.nocookie.net/angrybirds/images/1/12/Angry_birds_Star_Wars_Square_Icon.png/revision/latest/scale-to-width/360?cb=20230822214934",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "1.5.12",
+            "date": "2024-08-09",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars/Angry%20Birds%20Star%20Wars%201.5.12%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Angry Birds Star Wars HD",
+        "bundleIdentifier": "com.rovio.angrybirdsstarwarshd",
+        "marketplaceID": "10000012",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "Angry Birds Star Wars in HD.",
+        "localizedDescription": "The Star Wars crossover adventure with enhanced HD graphics.",
+        "iconURL": "https://img.tapimg.net/market/images/45edbf36af6134ef329064de87dc3782.png/appicon",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "1.5.12",
+            "date": "2024-08-09",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars%20HD/Angry%20Birds%20Star%20Wars%20HD%201.5.12%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Angry Birds Star Wars II",
+        "bundleIdentifier": "com.rovio.angrybirdsstarwarsii",
+        "marketplaceID": "10000013",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "The sequel to Angry Birds Star Wars.",
+        "localizedDescription": "The epic Star Wars crossover continues with new characters and more action!",
+        "iconURL": "https://static.wikia.nocookie.net/angrybirds/images/7/7d/STARWARSIIIcon.jpg/revision/latest?cb=20220327100411",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "1.9.24",
+            "date": "2024-08-05",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars%20II/Angry%20Birds%20Star%20Wars%20II%201.9.24%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Bad Piggies Free",
+        "bundleIdentifier": "com.rovio.badpiggiesfree",
+        "marketplaceID": "10000012",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "A free version of Bad Piggies.",
+        "localizedDescription": "Enjoy the puzzle adventures of Bad Piggies for free, featuring the same crazy contraptions!",
+        "iconURL": "https://static.wikia.nocookie.net/angrybirds/images/6/6c/918820_larger.png/revision/latest?cb=20230821171935",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "1.9.1",
+            "date": "2024-08-09",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Bad%20Piggies%20Free/Bad%20Piggies%20Free%201.9.1%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Bad Piggies HD",
+        "bundleIdentifier": "",
+        "marketplaceID": "10000012",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "Bad Piggies in HD",
+        "localizedDescription": "Enjoy the puzzle adventures of Bad Piggies in HD, featuring the same crazy contraptions!",
+        "iconURL": "https://static.wikia.nocookie.net/badpiggies/images/9/92/Bad_Piggies_HD_App_Icon.png/revision/latest?cb=20220111192348",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "1.0.0",
+            "date": "2024-08-09",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Bad%20Piggies%20HD/Bad%20Piggies%20HD%202.3.9%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      },
+      {
+        "name": "Red's First Flight",
+        "bundleIdentifier": "",
+        "marketplaceID": "10000012",
+        "developerName": "Rovio Entertainment",
+        "subtitle": "The classic is back!",
+        "localizedDescription": "Rebuilt from the ground up, Red's First Flight is a faithful re-make of the original Angry Birds game that took the world by storm!",
+        "iconURL": "https://static.wikia.nocookie.net/angrybirds/images/f/f3/RC_AB_App_Icon_April_2022.png/revision/latest/thumbnail/width/360/height/450?cb=20220528150336",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+        ],
+        "versions": [
+          {
+            "version": "1.3",
+            "date": "2024-08-09",
+            "downloadURL": "https://archive.org/download/20240608_20240608_1945/Red%27s%20First%20Flight/Red%27s%20First%20Flight%201.3%2064Bit.ipa"
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      }
+    ],
+    "identifier": "com.stuffed.angrybirds",
+    "name": "The Full Angry Birds Collection",
+    "news": [],
+    "userInfo": {}
+}
+    
